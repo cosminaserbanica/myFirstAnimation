@@ -1,6 +1,6 @@
 # myFirstAnimation
 
--Animation created following instructions from [YouTube](https://www.youtube.com/watch?v=gWai7fYp9PY)
+-Animation created using CSS Keyframes following instructions from [YouTube](https://www.youtube.com/watch?v=gWai7fYp9PY)
 
 -SVG file downloaded from [unDraw](https://undraw.co/search)
 
