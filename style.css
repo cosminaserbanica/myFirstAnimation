@@ -8,6 +8,7 @@
   text-align: center;
   width: 100%;
   height: auto;
+  overflow: hidden;
 }
 
 #wheel1, #wheel2 {
