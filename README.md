@@ -7,3 +7,5 @@
 -Vectors edited with [Figma](https://www.figma.com/)
 
 -Purpose of the animation: learning new skills in CSS.
+
+-View live version [here](https://cosminaserbanica.github.io/myFirstAnimation/)
